@@ -1,3 +1,4 @@
 line1 in b1
 line2 in b1 user 1
 line3 in b1 user1
+line4 in b1 user2
